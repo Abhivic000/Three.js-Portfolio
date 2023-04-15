@@ -49,7 +49,7 @@ function addStar() {
 
 Array(200).fill().forEach(addStar)
 
-const spaceTexture = new THREE.TextureLoader().load('space4k.jpg');
+const spaceTexture = new THREE.TextureLoader().load('new1.jpg');
 scene.background = spaceTexture;
 
 //Avatar
